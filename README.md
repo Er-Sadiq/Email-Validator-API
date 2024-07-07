@@ -1,5 +1,5 @@
 
-# EmailAuthValidator_API
+# Email-Validation-API
 
 EmailAuthValidator_API is a Go-based API service designed to verify the authenticity of email addresses using seven distinct factors. This API aims to enhance the reliability and security of email validation processes by leveraging various validation techniques including syntax checks, domain reputation, ESP identification, MX record verification, SPF record validation, SMTP checks, and DMARC record verification.
 ## Features
